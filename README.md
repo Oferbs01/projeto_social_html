@@ -40,10 +40,4 @@ O projeto utiliza **metodologias ativas de ensino**, valorizando a participaçã
 - Fortalecimento da autoestima e do senso de pertencimento social;  
 - Redução das desigualdades educacionais.
 
----
-
-### 💖 Como voluntário:
-- Junte-se a nós como professor, mentor ou colaborador.  
-- Entre em contato pelo e-mail: **contato@educacaquetransforma.org**
-
 
